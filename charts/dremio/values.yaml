@@ -1,6 +1,6 @@
 image: dremio/dremio-oss
 path:
-  dist: "pdfs:///tmp/pdfs"
+  dist: "pdfs:///data/dremio"
 # Check out Dremio documentation for memory and cpu requirements for
 # the coordinators and the executors.
 # The value of memory should be in MB. CPU is in no of cores.
